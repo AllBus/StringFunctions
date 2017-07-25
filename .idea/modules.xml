@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringFunctions.iml" filepath="$PROJECT_DIR$/.idea/modules/StringFunctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringFunctions_main.iml" filepath="$PROJECT_DIR$/.idea/modules/StringFunctions_main.iml" group="StringFunctions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringFunctions_test.iml" filepath="$PROJECT_DIR$/.idea/modules/StringFunctions_test.iml" group="StringFunctions" />
+    </modules>
+  </component>
+</project>
